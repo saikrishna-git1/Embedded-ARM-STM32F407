@@ -1,0 +1,6 @@
+../drivers/src/stm32f407xx_spi_driver.c:11:6:SPI_PClk_Ctrl	16	static
+../drivers/src/stm32f407xx_spi_driver.c:27:6:SPI_Init	24	static
+../drivers/src/stm32f407xx_spi_driver.c:73:10:SPI_GetStatusReg	16	static
+../drivers/src/stm32f407xx_spi_driver.c:79:6:SPI_Tx_Data	24	static
+../drivers/src/stm32f407xx_spi_driver.c:100:6:SPI_PeriCtrl	16	static
+../drivers/src/stm32f407xx_spi_driver.c:111:6:SPI_SSIConfig	16	static
